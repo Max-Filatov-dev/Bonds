@@ -1,0 +1,7 @@
+certifi
+numpy
+pandas
+python-dotenv
+pip-review
+httpx
+httpx[http2]
